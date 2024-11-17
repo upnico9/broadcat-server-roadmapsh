@@ -1,2 +1,2 @@
 # broadcat-server-roadmapsh
-Just a simple server working with WS to create client - Server interactions
+Just a roadmapsh project : simple server working with WS to create client - Server interactions
